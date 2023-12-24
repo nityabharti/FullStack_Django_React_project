@@ -5,7 +5,7 @@ import React from "react";
 
 const NavBarMenu = () => {
   const logoUrl =
-    "https://i.pinimg.com/originals/df/70/fc/df70fc7f957c5811ff783ad0efdd4966.jpg";
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhq2XltXJVN36xJ0BkllPdoKbZ-sMZmv5Z0Gure5LgaZkPyFd2SPMBI2frZZVgfM8K_po&usqp=CAU";
   return (
     <div>
       {" "}
